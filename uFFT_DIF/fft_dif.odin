@@ -1,4 +1,4 @@
-package fft_dif   // Decimation in frequency radix-2
+package ufft_dif   // Decimation in frequency radix-2
 
 import "core:fmt"
 import "core:math"

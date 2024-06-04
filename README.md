@@ -6,6 +6,8 @@ uFFT in Odin is a small portable Odin library for computing the discrete Fourier
 
 It's a port of the original uFFT from C. <br>
 
+Implements also Convolution, Cross-Correlation and Auto-Correlation. <br>
+
 The library implements forward and inverse fast Fourier transform (FFT) algorithms using both decimation in time (DIT) and decimation in frequency (DIF). <br>
 
 The library is written in pure C99. No compiler extensions nor assembly language are employed. It uses floating point data type and can handle unaligned data. <br>
